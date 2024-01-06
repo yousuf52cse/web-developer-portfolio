@@ -81,9 +81,9 @@ nav a {
 }
 
 .profile-picture {
-    /* width: 584px; */
-    /* height: 676px; */
-    width: 500px;
+    width: 584px;
+    height: 676px;
+    /* width: 500px; */
 }
 
 .banner-greeting {
